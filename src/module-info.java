@@ -1,2 +1,0 @@
-module Venta_Entradas {
-}
